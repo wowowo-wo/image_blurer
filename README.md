@@ -1,3 +1,3 @@
 # image_blurer
 
-This is a python tool for add blur for images.
+This is a python tool that applies blur effect to images.
